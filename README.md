@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **CCID:** `msiddiq6`
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
