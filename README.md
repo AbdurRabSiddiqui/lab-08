@@ -1,7 +1,7 @@
 # CMPUT 301: Lab 8 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Enter name>`
+- **Full Name:** `Muhammad Abdur Rab Siddiqui`
 - **CCID:** `msiddiq6`
 
 ## References and Resources
